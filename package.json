@@ -1,0 +1,22 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "This is a note taker to help you organize your tasks efficiently.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Alondra1752/Note-Taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alondra1752/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/Alondra1752/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
